@@ -1,8 +1,19 @@
-How to install git
-1. Search for git installing in your browser (according to your os)
-2. Install git
-3. Open git bash
-4. Set global user name by typing this command git config --global user.name "your github profile name"
-5. Set global user email using this command git config --global user.email "your email id used in github"
+## How to install git and configure for the first time
+1. Search for git installing in your browser (according to your os).
+2. Install git.
+3. Open git bash.
+4. Set global user name by typing this command git config --global user.name "your github profile name".
+5. Set global user email using this command git config --global user.email "your email id used in github".
+
+## Connecting to a Remote Repository
+
+1. Make a new directory in your pc.
+2. Create a new repo in github and copy the repo url.
+3. Open git bash, clone the repo using by " git clone <repo-url> ".
+4. Create a file and check the status using " git status ".
+5. To add your new file, use " git add <file-name>".
+6. Commit the changes, using " git commit -m "<any message>" " . -m is used for message.
+7. Changes will be reflected once we use " git push "
+
 
 
