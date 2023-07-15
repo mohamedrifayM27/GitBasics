@@ -1,0 +1,8 @@
+How to install git
+1. Search for git installing in your browser (according to your os)
+2. Install git
+3. Open git bash
+4. Set global user name by typing this command git config --global user.name "your github profile name"
+5. Set global user email using this command git config --global user.email "your email id used in github"
+
+
